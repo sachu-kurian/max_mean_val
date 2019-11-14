@@ -3,7 +3,7 @@ lst = [5, 10, 9, 7, 3, 8, 6]
 
 max_mean = 0
 max_mean_sequence = []
-block_size_start = 2 #this will always give the max value of list as mean
+block_size_start = 1 #this will always give the max value of list as mean if set to 1
 
 print("Original List:{}".format(lst))
 
